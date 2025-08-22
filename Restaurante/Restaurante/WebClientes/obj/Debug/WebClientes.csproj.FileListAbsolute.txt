@@ -1,0 +1,291 @@
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\WebClientes.dll.config
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\WebClientes.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\WebClientes.pdb
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\csc.exe
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\csc.exe.config
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\csc.rsp
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\csi.exe
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\csi.exe.config
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\csi.rsp
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.AppContext.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Collections.Immutable.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Console.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Globalization.Calendars.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.IO.Compression.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.IO.FileSystem.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Net.Http.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Net.Sockets.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Reflection.Metadata.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.ValueTuple.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Xml.XPath.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\vbc.exe
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\vbc.exe.config
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\vbc.rsp
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\VBCSCompiler.exe
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\roslyn\VBCSCompiler.exe.config
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\Antlr3.Runtime.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\Entidades.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\LogicaNegocio.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\Microsoft.Web.Infrastructure.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\Newtonsoft.Json.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.Helpers.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.Mvc.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.Optimization.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.Razor.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.Deployment.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.Razor.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\WebGrease.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\AccesoDatos.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\EntityFramework.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\Entidades.pdb
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\LogicaNegocio.pdb
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.Helpers.xml
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.Mvc.xml
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.Optimization.xml
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.Razor.xml
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.xml
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.Deployment.xml
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.Razor.xml
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\Newtonsoft.Json.xml
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\Antlr3.Runtime.pdb
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\AccesoDatos.pdb
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\AccesoDatos.dll.config
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\EntityFramework.xml
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\es\System.Web.Helpers.resources.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\es\System.Web.Mvc.resources.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\es\System.Web.Optimization.resources.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\es\System.Web.Razor.resources.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\es\System.Web.WebPages.resources.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\obj\Debug\WebClientes.csproj.AssemblyReference.cache
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\obj\Debug\WebClientes.csproj.CoreCompileInputs.cache
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\obj\Debug\WebClien.E4FF2A88.Up2Date
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\obj\Debug\WebClientes.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\obj\Debug\WebClientes.pdb
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\EntityFramework.SqlServer.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\WebClientes\bin\EntityFramework.SqlServer.xml
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\obj\Debug\WebClientes.csproj.AssemblyReference.cache
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\obj\Debug\WebClientes.csproj.CoreCompileInputs.cache
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\obj\Debug\WebClientes.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\obj\Debug\WebClientes.pdb
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\WebClientes.dll.config
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\WebClientes.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\WebClientes.pdb
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\csc.exe
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\csc.exe.config
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\csc.rsp
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\csi.exe
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\csi.exe.config
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\csi.rsp
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.AppContext.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Collections.Immutable.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Console.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Globalization.Calendars.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.IO.Compression.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.IO.FileSystem.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Net.Http.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Net.Sockets.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Reflection.Metadata.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.ValueTuple.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Xml.XPath.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\vbc.exe
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\vbc.exe.config
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\vbc.rsp
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\VBCSCompiler.exe
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\VBCSCompiler.exe.config
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Antlr3.Runtime.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Entidades.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\EntityFramework.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\EntityFramework.SqlServer.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\LogicaNegocio.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Microsoft.Web.Infrastructure.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Newtonsoft.Json.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Helpers.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Mvc.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Optimization.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Razor.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.Deployment.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.Razor.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\WebGrease.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\AccesoDatos.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Entidades.pdb
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\LogicaNegocio.pdb
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\EntityFramework.xml
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\EntityFramework.SqlServer.xml
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Helpers.xml
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Mvc.xml
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Optimization.xml
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Razor.xml
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.xml
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.Deployment.xml
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.Razor.xml
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Newtonsoft.Json.xml
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Antlr3.Runtime.pdb
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\AccesoDatos.pdb
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\AccesoDatos.dll.config
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.Helpers.resources.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.Mvc.resources.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.Optimization.resources.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.Razor.resources.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.WebPages.resources.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\WebClientes\obj\Debug\WebClien.E4FF2A88.Up2Date
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\WebClientes.dll.config
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\WebClientes.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\WebClientes.pdb
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\csc.exe
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\csc.exe.config
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\csc.rsp
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\csi.exe
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\csi.exe.config
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\csi.rsp
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.AppContext.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Collections.Immutable.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Console.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Globalization.Calendars.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.IO.Compression.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.IO.FileSystem.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Net.Http.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Net.Sockets.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Reflection.Metadata.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.ValueTuple.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Xml.XPath.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\vbc.exe
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\vbc.exe.config
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\vbc.rsp
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\VBCSCompiler.exe
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\roslyn\VBCSCompiler.exe.config
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Antlr3.Runtime.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Entidades.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\EntityFramework.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\EntityFramework.SqlServer.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\LogicaNegocio.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Microsoft.Web.Infrastructure.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Newtonsoft.Json.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Helpers.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Mvc.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Optimization.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Razor.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.Deployment.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.Razor.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\WebGrease.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\AccesoDatos.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Entidades.pdb
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\LogicaNegocio.pdb
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\EntityFramework.xml
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\EntityFramework.SqlServer.xml
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Helpers.xml
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Mvc.xml
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Optimization.xml
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.Razor.xml
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.xml
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.Deployment.xml
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\System.Web.WebPages.Razor.xml
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Newtonsoft.Json.xml
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Antlr3.Runtime.pdb
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\AccesoDatos.pdb
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\AccesoDatos.dll.config
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.Helpers.resources.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.Mvc.resources.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.Optimization.resources.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.Razor.resources.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.WebPages.resources.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\obj\Debug\WebClientes.csproj.AssemblyReference.cache
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\obj\Debug\WebClientes.csproj.CoreCompileInputs.cache
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\obj\Debug\WebClien.E4FF2A88.Up2Date
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\obj\Debug\WebClientes.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\WebClientes\obj\Debug\WebClientes.pdb

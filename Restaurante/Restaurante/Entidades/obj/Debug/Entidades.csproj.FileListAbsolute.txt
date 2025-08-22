@@ -1,0 +1,18 @@
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\Entidades\bin\Debug\Entidades.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\Entidades\bin\Debug\Entidades.pdb
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\Entidades\obj\Debug\Entidades.dll
+E:\ing sistemas\4to cuatri\progra 3\Restaurante\Restaurante\Entidades\obj\Debug\Entidades.pdb
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\Entidades\bin\Debug\Entidades.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\Entidades\bin\Debug\Entidades.pdb
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\Entidades\obj\Debug\Entidades.dll
+E:\ing sistemas\Nueva carpeta\Restaurante\Restaurante\Entidades\obj\Debug\Entidades.pdb
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\Entidades\bin\Debug\Entidades.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\Entidades\bin\Debug\Entidades.pdb
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\Entidades\obj\Debug\Entidades.dll
+D:\ing sistemas\4to cuatri\progra 3\SistemaReservaciones\Nueva carpeta\Restaurante\Restaurante\Entidades\obj\Debug\Entidades.pdb

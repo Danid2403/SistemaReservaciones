@@ -1,0 +1,78 @@
+﻿@model WebClientes.Models.M_Reservaciones
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Reservaciones</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NumeroReservacion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumeroReservacion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IdCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IdMesa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdMesa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IdMenu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdMenu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cantidad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cantidad)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaReservacion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaReservacion)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm("Acciones", "Reservaciones", FormMethod.Post, new { enctype = "multipart/form-data", @id = "frmReservaciones" }))
+    {
+        @Html.AntiForgeryToken()
+
+        @Html.HiddenFor(w => w.IdCliente, new { @id = "hdnId" })
+        @Html.HiddenFor(w => w.NumeroReservacion, new { @id = "hdnNumeroReservacin" })
+        @Html.HiddenFor(w => w.IdMesa, new { @id = "hdnMesa" })
+        @Html.HiddenFor(w => w.IdMenu, new { @id = "hdnMenu" })
+        @Html.HiddenFor(w => w.Cantidad, new { @id = "hdnCantidad" })
+        @Html.HiddenFor(w => w.FechaReservacion, new { @id = "hdnFechaReservacion" })
+
+        <div class="form-actions no-color">
+            <button type="submit" id="btnEliminar" name="submitButton" value="Eliminar"
+                    class="btn btn-primary" title="Eliminar" data-toggle="tooltip"
+                    data-container="body" data-placement="right">
+                Eliminar
+            </button>           
+            @Html.ActionLink("Regresar", "ListaReservaciones")
+        </div>
+    }
+</div>

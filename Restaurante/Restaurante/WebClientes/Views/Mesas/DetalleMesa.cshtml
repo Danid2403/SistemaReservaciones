@@ -1,0 +1,36 @@
+﻿@model WebClientes.Models.M_Mesas
+
+<div>
+    <h4>Descricion de la Mesa</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdMesa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdMesa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumeroMesa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumeroMesa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DescripcionMesa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DescripcionMesa)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "ModificaMesa", new { id = Model.IdMesa}) |
+    @Html.ActionLink("Regresar", "ListaMesas")
+</p>

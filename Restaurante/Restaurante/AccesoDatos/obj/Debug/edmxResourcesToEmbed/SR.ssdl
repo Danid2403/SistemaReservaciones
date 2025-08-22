@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SRModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Clientes">
+    <Key>
+      <PropertyRef Name="IdCliente" />
+    </Key>
+    <Property Name="IdCliente" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Apellidos" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Telefono" Type="nvarchar" MaxLength="15" />
+    <Property Name="CorreoElectronico" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Menu">
+    <Key>
+      <PropertyRef Name="IdMenu" />
+    </Key>
+    <Property Name="IdMenu" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Descripcion" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Precio" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Mesas">
+    <Key>
+      <PropertyRef Name="IdMesa" />
+    </Key>
+    <Property Name="IdMesa" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NumeroMesa" Type="int" Nullable="false" />
+    <Property Name="DescripcionMesa" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="Reservaciones">
+    <Key>
+      <PropertyRef Name="NumeroReservacion" />
+    </Key>
+    <Property Name="NumeroReservacion" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdCliente" Type="int" Nullable="false" />
+    <Property Name="IdMesa" Type="int" Nullable="false" />
+    <Property Name="IdMenu" Type="int" Nullable="false" />
+    <Property Name="Cantidad" Type="int" Nullable="false" />
+    <Property Name="FechaReservacion" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Reservaci__IdCli__3D5E1FD2">
+    <End Role="Clientes" Type="Self.Clientes" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Reservaciones" Type="Self.Reservaciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clientes">
+        <PropertyRef Name="IdCliente" />
+      </Principal>
+      <Dependent Role="Reservaciones">
+        <PropertyRef Name="IdCliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Reservaci__IdMen__3F466844">
+    <End Role="Menu" Type="Self.Menu" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Reservaciones" Type="Self.Reservaciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Menu">
+        <PropertyRef Name="IdMenu" />
+      </Principal>
+      <Dependent Role="Reservaciones">
+        <PropertyRef Name="IdMenu" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Reservaci__IdMes__3E52440B">
+    <End Role="Mesas" Type="Self.Mesas" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Reservaciones" Type="Self.Reservaciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Mesas">
+        <PropertyRef Name="IdMesa" />
+      </Principal>
+      <Dependent Role="Reservaciones">
+        <PropertyRef Name="IdMesa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="delCliente" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdCliente" Type="int" Mode="In" />
+  </Function>
+  <Function Name="delMenu" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdMenu" Type="int" Mode="In" />
+  </Function>
+  <Function Name="delMesa" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdMesa" Type="int" Mode="In" />
+  </Function>
+  <Function Name="delReservacion" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="NumeroReservacion" Type="int" Mode="In" />
+  </Function>
+  <Function Name="insCliente" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Nombre" Type="nvarchar" Mode="In" />
+    <Parameter Name="Apellidos" Type="nvarchar" Mode="In" />
+    <Parameter Name="Telefono" Type="nvarchar" Mode="In" />
+    <Parameter Name="CorreoElectronico" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="insMenu" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Descripcion" Type="nvarchar" Mode="In" />
+    <Parameter Name="Precio" Type="decimal" Mode="In" />
+  </Function>
+  <Function Name="insMesa" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="NumeroMesa" Type="int" Mode="In" />
+    <Parameter Name="DescripcionMesa" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="insReservacion" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdCliente" Type="int" Mode="In" />
+    <Parameter Name="IdMesa" Type="int" Mode="In" />
+    <Parameter Name="IdMenu" Type="int" Mode="In" />
+    <Parameter Name="Cantidad" Type="int" Mode="In" />
+    <Parameter Name="FechaReservacion" Type="datetime" Mode="In" />
+  </Function>
+  <Function Name="recClientes" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="recClientesXId" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdCliente" Type="int" Mode="In" />
+  </Function>
+  <Function Name="recMenu" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="recMenuXId" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdMenu" Type="int" Mode="In" />
+  </Function>
+  <Function Name="recMesas" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="recMesasXId" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdMesa" Type="int" Mode="In" />
+  </Function>
+  <Function Name="recReservaciones" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="recReservacionesXId" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="NumeroReservacion" Type="int" Mode="In" />
+  </Function>
+  <Function Name="updCliente" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdCliente" Type="int" Mode="In" />
+    <Parameter Name="Nombre" Type="nvarchar" Mode="In" />
+    <Parameter Name="Apellidos" Type="nvarchar" Mode="In" />
+    <Parameter Name="Telefono" Type="nvarchar" Mode="In" />
+    <Parameter Name="CorreoElectronico" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="updMenu" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdMenu" Type="int" Mode="In" />
+    <Parameter Name="Descripcion" Type="nvarchar" Mode="In" />
+    <Parameter Name="Precio" Type="decimal" Mode="In" />
+  </Function>
+  <Function Name="updMesa" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdMesa" Type="int" Mode="In" />
+    <Parameter Name="NumeroMesa" Type="int" Mode="In" />
+    <Parameter Name="DescripcionMesa" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="updReservacion" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="NumeroReservacion" Type="int" Mode="In" />
+    <Parameter Name="IdCliente" Type="int" Mode="In" />
+    <Parameter Name="IdMesa" Type="int" Mode="In" />
+    <Parameter Name="IdMenu" Type="int" Mode="In" />
+    <Parameter Name="Cantidad" Type="int" Mode="In" />
+    <Parameter Name="FechaReservacion" Type="datetime" Mode="In" />
+  </Function>
+  <EntityContainer Name="SRModelStoreContainer">
+    <EntitySet Name="Clientes" EntityType="Self.Clientes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Menu" EntityType="Self.Menu" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Mesas" EntityType="Self.Mesas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Reservaciones" EntityType="Self.Reservaciones" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Reservaci__IdCli__3D5E1FD2" Association="Self.FK__Reservaci__IdCli__3D5E1FD2">
+      <End Role="Clientes" EntitySet="Clientes" />
+      <End Role="Reservaciones" EntitySet="Reservaciones" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Reservaci__IdMen__3F466844" Association="Self.FK__Reservaci__IdMen__3F466844">
+      <End Role="Menu" EntitySet="Menu" />
+      <End Role="Reservaciones" EntitySet="Reservaciones" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Reservaci__IdMes__3E52440B" Association="Self.FK__Reservaci__IdMes__3E52440B">
+      <End Role="Mesas" EntitySet="Mesas" />
+      <End Role="Reservaciones" EntitySet="Reservaciones" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

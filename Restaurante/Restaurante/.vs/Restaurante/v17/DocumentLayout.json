@@ -1,0 +1,752 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9146638-721E-4685-9A36-2A811A18EB74}|LogicaNegocio\\LogicaNegocio.csproj|d:\\ing sistemas\\4to cuatri\\progra 3\\sistemareservaciones\\nueva carpeta\\restaurante\\restaurante\\logicanegocio\\implementacion\\clientesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9146638-721E-4685-9A36-2A811A18EB74}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\implementacion\\clientesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|d:\\ing sistemas\\4to cuatri\\progra 3\\sistemareservaciones\\nueva carpeta\\restaurante\\restaurante\\accesodatos\\sr.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\sr.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5343C5-E51D-49F8-AE27-DDD85B545C2D}|Entidades\\Entidades.csproj|d:\\ing sistemas\\4to cuatri\\progra 3\\sistemareservaciones\\nueva carpeta\\restaurante\\restaurante\\entidades\\sr.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6C5343C5-E51D-49F8-AE27-DDD85B545C2D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\sr.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|d:\\ing sistemas\\4to cuatri\\progra 3\\sistemareservaciones\\nueva carpeta\\restaurante\\restaurante\\accesodatos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|d:\\ing sistemas\\4to cuatri\\progra 3\\sistemareservaciones\\nueva carpeta\\restaurante\\restaurante\\accesodatos\\sr.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\sr.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9146638-721E-4685-9A36-2A811A18EB74}|LogicaNegocio\\LogicaNegocio.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\logicanegocio\\implementacion\\reservacionesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9146638-721E-4685-9A36-2A811A18EB74}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\implementacion\\reservacionesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\reservaciones\\detallereservacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\reservaciones\\detallereservacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\clientes\\eliminaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\clientes\\eliminaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\clientes\\detalleclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\clientes\\detalleclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\models\\m_reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\models\\m_reservaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\reservaciones\\eliminareservacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\reservaciones\\eliminareservacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\clientes\\agregaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\clientes\\agregaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\reservaciones\\agregarreservacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\reservaciones\\agregarreservacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\clientes\\modificaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\clientes\\modificaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\reservaciones\\modificareservacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\reservaciones\\modificareservacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\reservaciones\\listareservaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\reservaciones\\listareservaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\controllers\\reservacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\controllers\\reservacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\clientes\\listaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\clientes\\listaclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\controllers\\mesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\controllers\\mesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\mesas\\listamesas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\mesas\\listamesas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\menu\\listamenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\menu\\listamenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\models\\m_mesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\models\\m_mesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\accesodatos\\implementacion\\reservacionesad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\implementacion\\reservacionesad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\accesodatos\\implementacion\\clientesad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\implementacion\\clientesad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\accesodatos\\interfaces\\iclientesad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\interfaces\\iclientesad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\models\\m_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\models\\m_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\accesodatos\\interfaces\\imesasad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\interfaces\\imesasad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9146638-721E-4685-9A36-2A811A18EB74}|LogicaNegocio\\LogicaNegocio.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\logicanegocio\\interfaces\\ireservacionesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9146638-721E-4685-9A36-2A811A18EB74}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfaces\\ireservacionesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\models\\m_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\models\\m_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9146638-721E-4685-9A36-2A811A18EB74}|LogicaNegocio\\LogicaNegocio.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\logicanegocio\\interfaces\\imesasln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9146638-721E-4685-9A36-2A811A18EB74}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfaces\\imesasln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\accesodatos\\interfaces\\ireservacionesad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\interfaces\\ireservacionesad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\accesodatos\\implementacion\\mesasad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\implementacion\\mesasad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\menu\\eliminamenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\menu\\eliminamenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\mesas\\eliminamesa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\mesas\\eliminamesa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\webclientes\\views\\mesas\\detallemesa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1D4AF8B-4F0D-4650-8D78-AB80B80DE525}|WebClientes\\WebClientes.csproj|solutionrelative:webclientes\\views\\mesas\\detallemesa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9146638-721E-4685-9A36-2A811A18EB74}|LogicaNegocio\\LogicaNegocio.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\logicanegocio\\interfaces\\imenuln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9146638-721E-4685-9A36-2A811A18EB74}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfaces\\imenuln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\accesodatos\\implementacion\\menuad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\implementacion\\menuad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\accesodatos\\interfaces\\imenuad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F052EF-FEA2-4C59-8FCB-3290A56A184B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\interfaces\\imenuad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SR.Context.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\SR.Context.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\SR.Context.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\SR.Context.cs",
+              "RelativeToolTip": "AccesoDatos\\SR.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T21:31:34.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SR.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\SR.edmx",
+              "RelativeDocumentMoniker": "AccesoDatos\\SR.edmx",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\SR.edmx [Diagram1]",
+              "RelativeToolTip": "AccesoDatos\\SR.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-21T21:29:14.992Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.Config",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\App.Config",
+              "RelativeDocumentMoniker": "AccesoDatos\\App.Config",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\App.Config",
+              "RelativeToolTip": "AccesoDatos\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-21T21:26:08.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EliminaReservacion.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Reservaciones\\EliminaReservacion.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Reservaciones\\EliminaReservacion.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Reservaciones\\EliminaReservacion.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Reservaciones\\EliminaReservacion.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:00:32.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ModificaClientes.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Clientes\\ModificaClientes.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Clientes\\ModificaClientes.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Clientes\\ModificaClientes.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Clientes\\ModificaClientes.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T04:38:41.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AgregaClientes.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Clientes\\AgregaClientes.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Clientes\\AgregaClientes.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Clientes\\AgregaClientes.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Clientes\\AgregaClientes.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T04:20:07.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:46:40.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "M_Reservaciones.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Models\\M_Reservaciones.cs",
+              "RelativeDocumentMoniker": "WebClientes\\Models\\M_Reservaciones.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Models\\M_Reservaciones.cs",
+              "RelativeToolTip": "WebClientes\\Models\\M_Reservaciones.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T01:37:20.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetalleClientes.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Clientes\\DetalleClientes.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Clientes\\DetalleClientes.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Clientes\\DetalleClientes.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Clientes\\DetalleClientes.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T04:46:33.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesLN.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\LogicaNegocio\\Implementacion\\ClientesLN.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Implementacion\\ClientesLN.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\LogicaNegocio\\Implementacion\\ClientesLN.cs",
+              "RelativeToolTip": "LogicaNegocio\\Implementacion\\ClientesLN.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:46:26.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SR.tt",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\Entidades\\SR.tt",
+              "RelativeDocumentMoniker": "Entidades\\SR.tt",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\Entidades\\SR.tt",
+              "RelativeToolTip": "Entidades\\SR.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-21T21:30:41.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservacionesLN.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\LogicaNegocio\\Implementacion\\ReservacionesLN.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Implementacion\\ReservacionesLN.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\LogicaNegocio\\Implementacion\\ReservacionesLN.cs",
+              "RelativeToolTip": "LogicaNegocio\\Implementacion\\ReservacionesLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:06:02.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AgregarReservacion.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Reservaciones\\AgregarReservacion.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Reservaciones\\AgregarReservacion.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Reservaciones\\AgregarReservacion.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Reservaciones\\AgregarReservacion.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T03:01:58.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleReservacion.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Reservaciones\\DetalleReservacion.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Reservaciones\\DetalleReservacion.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Reservaciones\\DetalleReservacion.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Reservaciones\\DetalleReservacion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:12:05.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EliminaClientes.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Clientes\\EliminaClientes.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Clientes\\EliminaClientes.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Clientes\\EliminaClientes.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Clientes\\EliminaClientes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:00:45.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ModificaReservacion.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Reservaciones\\ModificaReservacion.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Reservaciones\\ModificaReservacion.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Reservaciones\\ModificaReservacion.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Reservaciones\\ModificaReservacion.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T02:56:31.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListaReservaciones.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Reservaciones\\ListaReservaciones.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Reservaciones\\ListaReservaciones.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Reservaciones\\ListaReservaciones.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Reservaciones\\ListaReservaciones.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T05:27:25.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReservacionesController.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Controllers\\ReservacionesController.cs",
+              "RelativeDocumentMoniker": "WebClientes\\Controllers\\ReservacionesController.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Controllers\\ReservacionesController.cs",
+              "RelativeToolTip": "WebClientes\\Controllers\\ReservacionesController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:50:18.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:49:35.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T04:02:57.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:46:35.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ListaClientes.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Clientes\\ListaClientes.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Clientes\\ListaClientes.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Clientes\\ListaClientes.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Clientes\\ListaClientes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T04:11:16.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "WebClientes\\Controllers\\ClientesController.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "WebClientes\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:44:06.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ListaMenu.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Menu\\ListaMenu.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Menu\\ListaMenu.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Menu\\ListaMenu.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Menu\\ListaMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T06:57:53.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MesasController.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Controllers\\MesasController.cs",
+              "RelativeDocumentMoniker": "WebClientes\\Controllers\\MesasController.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Controllers\\MesasController.cs",
+              "RelativeToolTip": "WebClientes\\Controllers\\MesasController.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:12:34.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ListaMesas.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Mesas\\ListaMesas.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Mesas\\ListaMesas.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Mesas\\ListaMesas.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Mesas\\ListaMesas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T03:12:55.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "WebClientes\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "WebClientes\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAYwMYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:09:43.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "M_Mesas.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Models\\M_Mesas.cs",
+              "RelativeDocumentMoniker": "WebClientes\\Models\\M_Mesas.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Models\\M_Mesas.cs",
+              "RelativeToolTip": "WebClientes\\Models\\M_Mesas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:59:50.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IClientesAD.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Interfaces\\IClientesAD.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Interfaces\\IClientesAD.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Interfaces\\IClientesAD.cs",
+              "RelativeToolTip": "AccesoDatos\\Interfaces\\IClientesAD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:42:32.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReservacionesAD.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Implementacion\\ReservacionesAD.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Implementacion\\ReservacionesAD.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Implementacion\\ReservacionesAD.cs",
+              "RelativeToolTip": "AccesoDatos\\Implementacion\\ReservacionesAD.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:41:33.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebClientes\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebClientes\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:28:21.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "M_Menu.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Models\\M_Menu.cs",
+              "RelativeDocumentMoniker": "WebClientes\\Models\\M_Menu.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Models\\M_Menu.cs",
+              "RelativeToolTip": "WebClientes\\Models\\M_Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:08:44.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClientesAD.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Implementacion\\ClientesAD.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Implementacion\\ClientesAD.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Implementacion\\ClientesAD.cs",
+              "RelativeToolTip": "AccesoDatos\\Implementacion\\ClientesAD.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:36:44.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IMesasAD.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Interfaces\\IMesasAD.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Interfaces\\IMesasAD.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Interfaces\\IMesasAD.cs",
+              "RelativeToolTip": "AccesoDatos\\Interfaces\\IMesasAD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:36:41.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IReservacionesLN.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\LogicaNegocio\\Interfaces\\IReservacionesLN.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Interfaces\\IReservacionesLN.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\LogicaNegocio\\Interfaces\\IReservacionesLN.cs",
+              "RelativeToolTip": "LogicaNegocio\\Interfaces\\IReservacionesLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:26:12.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "M_Clientes.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Models\\M_Clientes.cs",
+              "RelativeDocumentMoniker": "WebClientes\\Models\\M_Clientes.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Models\\M_Clientes.cs",
+              "RelativeToolTip": "WebClientes\\Models\\M_Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:28:46.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IReservacionesAD.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Interfaces\\IReservacionesAD.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Interfaces\\IReservacionesAD.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Interfaces\\IReservacionesAD.cs",
+              "RelativeToolTip": "AccesoDatos\\Interfaces\\IReservacionesAD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:02:43.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IMesasLN.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\LogicaNegocio\\Interfaces\\IMesasLN.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Interfaces\\IMesasLN.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\LogicaNegocio\\Interfaces\\IMesasLN.cs",
+              "RelativeToolTip": "LogicaNegocio\\Interfaces\\IMesasLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:56:02.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MesasAD.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Implementacion\\MesasAD.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Implementacion\\MesasAD.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Implementacion\\MesasAD.cs",
+              "RelativeToolTip": "AccesoDatos\\Implementacion\\MesasAD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:09:49.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EliminaMesa.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Mesas\\EliminaMesa.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Mesas\\EliminaMesa.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Mesas\\EliminaMesa.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Mesas\\EliminaMesa.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T06:40:18.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EliminaMenu.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Menu\\EliminaMenu.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Menu\\EliminaMenu.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Menu\\EliminaMenu.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Menu\\EliminaMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T07:14:15.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DetalleMesa.cshtml",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Mesas\\DetalleMesa.cshtml",
+              "RelativeDocumentMoniker": "WebClientes\\Views\\Mesas\\DetalleMesa.cshtml",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\WebClientes\\Views\\Mesas\\DetalleMesa.cshtml",
+              "RelativeToolTip": "WebClientes\\Views\\Mesas\\DetalleMesa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T06:41:57.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MenuAD.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Implementacion\\MenuAD.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Implementacion\\MenuAD.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Implementacion\\MenuAD.cs",
+              "RelativeToolTip": "AccesoDatos\\Implementacion\\MenuAD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:48:18.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IMenuLN.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\LogicaNegocio\\Interfaces\\IMenuLN.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Interfaces\\IMenuLN.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\LogicaNegocio\\Interfaces\\IMenuLN.cs",
+              "RelativeToolTip": "LogicaNegocio\\Interfaces\\IMenuLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:02:17.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IMenuAD.cs",
+              "DocumentMoniker": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Interfaces\\IMenuAD.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Interfaces\\IMenuAD.cs",
+              "ToolTip": "D:\\ing sistemas\\4to cuatri\\progra 3\\SistemaReservaciones\\Nueva carpeta\\Restaurante\\Restaurante\\AccesoDatos\\Interfaces\\IMenuAD.cs",
+              "RelativeToolTip": "AccesoDatos\\Interfaces\\IMenuAD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:42:27.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

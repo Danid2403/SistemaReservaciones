@@ -1,0 +1,50 @@
+﻿@model WebClientes.Models.M_Mesas
+
+<h3>Desea eliminar la mesa?</h3>
+<div>
+    <h4>Mesas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdMesa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdMesa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumeroMesa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumeroMesa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DescripcionMesa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DescripcionMesa)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm("Acciones", "Mesas", FormMethod.Post, new { enctype = "multipart/form-data", @id = "frmMesas" }))
+    {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(w => w.IdMesa, new { @id = "hdnIdMesa" })
+        @Html.HiddenFor(w => w.DescripcionMesa, new { @id = "hdnDescripcionMesa" })
+        @Html.HiddenFor(w => w.NumeroMesa, new { @id = "hdnNumeroMesa" })
+
+        <div class="form-actions no-color">
+            <button type="submit" id="btnEliminar" name="submitButton" value="Eliminar"
+                    class="btn btn-primary" title="Eliminar" data-toggle="tooltip"
+                    data-container="body" data-placement="right">
+                Eliminar
+            </button>         
+            @Html.ActionLink("Regresar", "ListaMesas")
+        </div>
+    }
+</div>
